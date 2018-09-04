@@ -68,7 +68,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Licenses", "Licenses", "{D7
 		Licenses\BoDi-LICENSE-Apache2.txt = Licenses\BoDi-LICENSE-Apache2.txt
 		Licenses\Gherkin-LICENSE-MIT.txt = Licenses\Gherkin-LICENSE-MIT.txt
 		Licenses\Newtonsoft.Json-LICENSE-MIT.md = Licenses\Newtonsoft.Json-LICENSE-MIT.md
-		Licenses\System.ValueTuple-LICENSE-MIT.txt = Licenses\System.ValueTuple-LICENSE-MIT.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TechTalk.SpecFlow.MsBuildNetSdk.IntegrationTests", "Tests\TechTalk.SpecFlow.MsBuildNetSdk.IntegrationTests\TechTalk.SpecFlow.MsBuildNetSdk.IntegrationTests.csproj", "{02A08F81-B90F-4EB3-9C30-CE7447DE2012}"
